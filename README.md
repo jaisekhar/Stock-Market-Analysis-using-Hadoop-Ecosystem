@@ -13,6 +13,8 @@
 
 ### Source Code: https://github.com/jaisekhar/Stock-Market-Analysis-using-Hadoop-Ecosystem/blob/main/SourceCode
 
+### Video: https://mailmissouri-my.sharepoint.com/:v:/g/personal/jkdyx_umsystem_edu/EVLGvGE-j5pBtpVyRHSuvk4Bj2WFuHO6GZaabHCWrWm5Yw?e=0XMDxr
+
 ### Screenshots: https://github.com/jaisekhar/Stock-Market-Analysis-using-Hadoop-Ecosystem/blob/main/Screenshots
 
 ### (Increments): https://github.com/jaisekhar/Stock-Market-Analysis-using-Hadoop-Ecosystem/blob/main/Increments
