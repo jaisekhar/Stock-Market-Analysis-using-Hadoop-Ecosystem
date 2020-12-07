@@ -9,8 +9,10 @@
 3. Sai Rohith Guntupally
 4. Aarthi Nagireddy
 
-### Final Report
-### Report Link: https://github.com/jaisekhar/Stock-Market-Analysis-using-Hadoop-Ecosystem/blob/main/Final%20Report.pdf
+### Final Report: https://github.com/jaisekhar/Stock-Market-Analysis-using-Hadoop-Ecosystem/blob/main/Final%20Report.pdf
 
-### (Increments)
-### Link: https://github.com/jaisekhar/Stock-Market-Analysis-using-Hadoop-Ecosystem/blob/main/Increments
+### Source Code: https://github.com/jaisekhar/Stock-Market-Analysis-using-Hadoop-Ecosystem/blob/main/SourceCode
+
+### Screenshots: https://github.com/jaisekhar/Stock-Market-Analysis-using-Hadoop-Ecosystem/blob/main/Screenshots
+
+### (Increments): https://github.com/jaisekhar/Stock-Market-Analysis-using-Hadoop-Ecosystem/blob/main/Increments
