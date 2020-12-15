@@ -11,6 +11,8 @@
 
 ### Final Report: https://github.com/jaisekhar/Stock-Market-Analysis-using-Hadoop-Ecosystem/blob/main/Final%20Report.pdf
 
+### Presentation: https://github.com/jaisekhar/Stock-Market-Analysis-using-Hadoop-Ecosystem/blob/main/presentation.pptx
+
 ### Source Code: https://github.com/jaisekhar/Stock-Market-Analysis-using-Hadoop-Ecosystem/blob/main/SourceCode
 
 ### Video: https://mailmissouri-my.sharepoint.com/:v:/g/personal/jkdyx_umsystem_edu/EVLGvGE-j5pBtpVyRHSuvk4Bj2WFuHO6GZaabHCWrWm5Yw?e=0XMDxr
